@@ -22,17 +22,12 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE:
+OBSERVATION TABLE
 
-+----------------------+----------------------+----------------+---------------+-----------+
-| Displacement Type    | Input Voltage (Vrms) | Output Voltage | Frequency (Hz)| Time (1/f)|
-+----------------------+----------------------+----------------+---------------+-----------+
-| Positive Displacement| 7 V                  | 2.2 V          | 1000          | 1 ms      |
-| (D = +5 mm)          |                      |                |               |           |
-+----------------------+----------------------+----------------+---------------+-----------+
-| Negative Displacement| 7 V                  | 2.2 V          | 1000          | 1 ms      |
-| (D = -5 mm)          |                      |                |               |           |
-+----------------------+----------------------+----------------+---------------+-----------+
+| Displacement | Input Voltage (V) | Output Voltage (V) | Frequency (Hz) | Time |
+| ------------ | ----------------- | ------------------ | -------------- | ---- |
+| +5 mm        | 7                 | 2.2                | 1000           | 1 ms |
+| -5 mm        | 7                 | 2.2                | 1000           | 1 ms |
 
 
 
