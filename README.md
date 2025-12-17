@@ -32,6 +32,7 @@ OBSERVATION TABLE:
 | Negative Displacement | 7                     | 2.2 V (D = -5 mm)      | 1000          | 1 ms      |
 +-----------------------+-----------------------+------------------------+---------------+-----------+
 
+
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
